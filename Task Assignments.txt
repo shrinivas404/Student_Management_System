@@ -1,0 +1,14 @@
+Team Responsibilities
+Shrinivas
+Create and implement:
+•	Add Student
+•	Delete Student
+Branch:
+feature-student-management
+________________________________________
+Upmanyu
+Create and implement:
+•	View Students
+•	Search Student
+Branch:
+feature-reporting
